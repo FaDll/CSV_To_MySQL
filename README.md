@@ -1,5 +1,7 @@
-# Task3
-
+# Project Title
+<pre>
+CSV_to_MySQL
+</pre>
 1- clone the repo file to ‪D:\xamp\htdocs.
 2- start the Apache and MySql server.
 3- open the Database.php file located in D:\xamp\htdocs\Task3\DataBaseFile, then put your own phpmyadmin login credentials
