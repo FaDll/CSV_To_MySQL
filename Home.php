@@ -18,6 +18,7 @@
         { 
             $DbObj=Database::CreateDB($_POST['UserName'],$_POST['Password'],$_POST['Dbname']);
             $_SESSION['dbName']=$_POST['Dbname'];
+            $_SESSION['TableName']=$_POST['TableName'];
             $Dbobj=Database::getInstance($_POST['Dbname']);
             $Dbobj->CreateTable($_POST['TableName']);
             header("location:ImportCSV.php");

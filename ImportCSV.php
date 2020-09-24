@@ -28,7 +28,7 @@
                     while($data=fgetcsv($handler))
                     {
                             $values=array($data[0],$data[1],$data[2],$data[3],$data[4]);
-                            $Dbobj->insert('user',$fields,$values);
+                            $Dbobj->insert($_SESSION['TableName'],$fields,$values);
                     }
 
                     fclose($handler);

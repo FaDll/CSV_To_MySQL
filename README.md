@@ -2,7 +2,6 @@
 <pre>
 CSV_to_MySQL
 </pre>
-
 # Prerequisites
 <pre>
 1.Install xamp/wamp on your local machine. 
@@ -16,6 +15,7 @@ in line number : 37
 Clone the repo file to ‪D:\xamp\htdocs.
 </pre>
 # Getting Started
+Download this CSV for testing : [Google Drive](https://drive.google.com/file/d/1tmac4wM_SCYtJ3Cdf7HVDgmxY09dBmy6/view)
 Get started: [Home Page](http://localhost/task3/Home.php)
 
 
