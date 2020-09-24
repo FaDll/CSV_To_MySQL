@@ -16,7 +16,7 @@ in line number : 37
 Clone the repo file to ‪D:\xamp\htdocs.
 </pre>
 # Getting Started
-Get started: [Home Page] (http://localhost/task3/Home.php)
+Get started: [Home Page](http://localhost/task3/Home.php)
 
 
  
