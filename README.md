@@ -15,8 +15,8 @@ in line number : 37
 Clone the repo file to ‪D:\xamp\htdocs.
 </pre>
 # Getting Started
-Download this CSV for testing : [Google Drive](https://drive.google.com/file/d/1tmac4wM_SCYtJ3Cdf7HVDgmxY09dBmy6/view)
-Get started: [Home Page](http://localhost/task3/Home.php)
+1. Download this CSV for testing : [Google Drive](https://drive.google.com/file/d/1tmac4wM_SCYtJ3Cdf7HVDgmxY09dBmy6/view)
+2. Get started: [Home Page](http://localhost/task3/Home.php)
 
 
  
